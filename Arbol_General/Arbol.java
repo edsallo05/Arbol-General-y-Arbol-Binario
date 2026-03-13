@@ -101,4 +101,12 @@ public class Arbol<E> implements Arbol_Interface<E> {
 
         return subArbol;
     }
+
+    public Nodo<E> getRaiz() {
+        return raiz;
+    }
+
+    public void setRaiz(Nodo<E> raiz) {
+        this.raiz = raiz;
+    }
 }

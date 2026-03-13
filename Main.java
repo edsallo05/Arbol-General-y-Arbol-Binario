@@ -1,4 +1,6 @@
 import Arbol_Binario.ArbolBinario;
+import Arbol_Genealogico.Arbol_Genealogico;
+import Arbol_Genealogico.Persona;
 import Arbol_General.Arbol;
 import Arbol_General.Nodo;
 
@@ -37,5 +39,9 @@ public class Main {
         empresa.insertar("Contador1");
 
         //Puedes probar el resto de metodos ya yo los probe y se que funcionan
+
+
+
+
     }
 }
